@@ -1,5 +1,4 @@
-# SYSC 1005 A Fall 2015 Lab 7
-# Revised: November 4, 2015.
+# SYSC 1005 A Fall 2015
 
 import sys  # get_image calls exit
 from Cimpl import *
